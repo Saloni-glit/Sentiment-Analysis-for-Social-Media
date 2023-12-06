@@ -8,10 +8,4 @@ With the given twitter dataset consisting of train.csv and test.csv files where 
 
 The image file present in this repository is used for super-imposing the twitter logo on the generated wordcloud.
 
-## Medium Article link 
-Part 1: “Social Media Sentiment Analysis using Machine Learning : Part — I” by Deepak Das
-https://link.medium.com/dvr0UN1Zr6
 
-
-Part 2: “Social Media Sentiment Analysis using Machine Learning : Part — II” by Deepak Das 
-https://link.medium.com/fhTGul4Zr6
